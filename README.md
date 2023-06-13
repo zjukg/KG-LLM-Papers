@@ -11,7 +11,7 @@ Welcome to recommend missing papers through issues.
 Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki).
 
 ## 🔔 News
-- **2023-06-12 We create this repository to maintain a paper list on *Reasoning with Language Model Prompting*.**
+- **2023-06-12 We create this repository to maintain a paper list on *Intergrating Knowledge Graphs and Large Language Models*.**
 
 ## Content
 - [📜 Papers](#papers)
