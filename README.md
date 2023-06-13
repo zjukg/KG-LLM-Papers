@@ -38,6 +38,8 @@ Details of summary and classification of papers are shown in [wiki](https://gith
 
 **Don't worry if you put something wrong, they will be fixed for you. Just contribute and promote your awesome work here!**
 
+---
+
 ### Contributors
 
 <a href="https://github.com/zjukg/KG-LLM-Papers/graphs/contributors">
