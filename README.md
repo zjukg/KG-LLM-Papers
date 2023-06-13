@@ -14,10 +14,13 @@ Details of summary and classification of papers are shown in [wiki](https://gith
 - **2023-06-12 We create this repository to maintain a paper list on *Reasoning with Language Model Prompting*.**
 
 ## Content
-- [⚙ Methods](#methods)
-- [🧰 Resources](#resources)
+- [📜 Papers](#papers)
+  - [⚙ Methods](#methods)
+  - [🧰 Resources](#resources)
 
-## Paper Collections
+---
+
+##  Papers
  
 ### Methods
 * Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\]
