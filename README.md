@@ -35,13 +35,13 @@ Details of summary and classification of papers are shown in [wiki](https://gith
 
 - Add a new paper or update an existing KG-related LLM paper.
 - Use the same format as existing entries to describe the work.
-- A very brief explanation why you think a paper should be added or updated is recommended via issue.
+- A very brief explanation why you think a paper should be added or updated is recommended via **`adding issues`**.
 
 **Don't worry if you put something wrong, they will be fixed for you. Just contribute and promote your awesome work here!**
 
 
 
-### Contributors
+## Contributors
 
 <a href="https://github.com/zjukg/KG-LLM-Papers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=zjukg/KG-LLM-Papers" />
