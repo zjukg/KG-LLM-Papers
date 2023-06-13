@@ -23,8 +23,8 @@ Details of summary and classification of papers are shown in [wiki](https://gith
 ##  Papers
  
 ### Methods
-* Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\]
-* Enhancing Knowledge Graph Construction Using Large Language Models. \[[arxiv](https://arxiv.org/pdf/2305.04676)\]
+1. Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\], 2023.06
+2. Enhancing Knowledge Graph Construction Using Large Language Models. \[[arxiv](https://arxiv.org/pdf/2305.04676)\], 2023.05
 
 
 ### Resources
