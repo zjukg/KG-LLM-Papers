@@ -4,11 +4,11 @@
 ![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-This repository collects papers intergrating knowledge graphs and large language models.
+🙌 This repository collects papers intergrating **knowledge graphs (KGs)** and **large language models (LLMs)**.
 
-Welcome to recommend missing papers through issues. 
+🤩 Welcome to recommend missing papers through issues. 
 
-Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki).
+<!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
 - **2023-06-12 We create this repository to maintain a paper list on *Intergrating Knowledge Graphs and Large Language Models*.**
@@ -46,11 +46,11 @@ Details of summary and classification of papers are shown in [wiki](https://gith
 
 ## 🎉 Contributing
 
-- Add a new paper or update an existing KG-related LLM paper.
-- Use the same format as existing entries to describe the work.
-- A very brief explanation why you think a paper should be added or updated is recommended via **`adding issues`**.
+- ✨ Add a new paper or update an existing KG-related LLM paper.
+- 🧐 Use the same format as existing entries to describe the work.
+- 😄 A very brief explanation why you think a paper should be added or updated is recommended via **`adding issues`**.
 
-**Don't worry if you put something wrong, they will be fixed for you. Just contribute and promote your awesome work here!**
+**Don't worry if you put something wrong, they will be fixed for you. Just contribute and promote your awesome work here! 😉**
 
 
 
