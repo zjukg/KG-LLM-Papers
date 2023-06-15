@@ -58,7 +58,7 @@
 - 🧐 Use the same format as existing entries to describe the work.
 - 😄 A very brief explanation why you think a paper should be added or updated is recommended via **`adding issues`**.
 
-**Don't worry if you put something wrong, they will be fixed for you. Just feel free contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
+**Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
 
 
 
