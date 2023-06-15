@@ -31,21 +31,21 @@
 ##  Papers
  
 ### Methods
-- \[[arxiv](https://arxiv.org/pdf/2305.04676)\], Enhancing Knowledge Graph Construction Using Large Language Models. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.03513)\], ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2304.11116)\], Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT. `2023.04`
-- \[[ACL 2023](https://arxiv.org/abs/2305.06590)\], FactKG: Fact Verification via Reasoning on Knowledge Graphs. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2304.05973)\], HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting. `2023.04`
-- \[[arxiv](https://arxiv.org/abs/2305.19523)\], Explanations as Features: LLM-Based Features for Text-Attributed Graphs. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.13168)\], LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.10037)\], Can Language Models Solve Graph Problems in Natural Language? `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.09858)\], Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs. `2023.05`
-- \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\], Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. `2023.06`
-- \[[arxiv](https://arxiv.org/abs/2305.16755)\], Can large language models generate salient negative statements? `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.15066)\], GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.01157)\], Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.00050)\], Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
-- \[[arxiv](https://arxiv.org/abs/2303.05279)\], Can large language models build causal graphs? `2023.04`
+- \[[arxiv](https://arxiv.org/pdf/2305.04676)\] Enhancing Knowledge Graph Construction Using Large Language Models. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.03513)\] ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2304.11116)\] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT. `2023.04`
+- \[[ACL 2023](https://arxiv.org/abs/2305.06590)\] FactKG: Fact Verification via Reasoning on Knowledge Graphs. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2304.05973)\] HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting. `2023.04`
+- \[[arxiv](https://arxiv.org/abs/2305.19523)\] Explanations as Features: LLM-Based Features for Text-Attributed Graphs. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.13168)\] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.10037)\] Can Language Models Solve Graph Problems in Natural Language? `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.09858)\] Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs. `2023.05`
+- \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\] Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. `2023.06`
+- \[[arxiv](https://arxiv.org/abs/2305.16755)\] Can large language models generate salient negative statements? `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.15066)\] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.01157)\] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
+- \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
 
 
 ### Resources
