@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
->What can large language models do for KGs? Or, in other words, what role can KGs play in the era of large language models?
+>What can LLMs do for KGs? Or, in other words, what role can KG play in the era of LLMs?
 
 🙌 This repository collects papers intergrating **knowledge graphs (KGs)** and **large language models (LLMs)**.
 
