@@ -58,18 +58,20 @@
 
 ---
 
-## 🎉 Contributing
+
+
+
+## Contribution
+### 👥 Contributors
+
+<a href="https://github.com/zjukg/KG-LLM-Papers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zjukg/KG-LLM-Papers" />
+</a>
+
+### 🎉 Contributing ( welcome ! )
 
 - ✨ Add a new paper or update an existing KG-related LLM paper.
 - 🧐 Use the same format as existing entries to describe the work.
 - 😄 A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
 
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
-
-
-
-## Contributors
-
-<a href="https://github.com/zjukg/KG-LLM-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zjukg/KG-LLM-Papers" />
-</a>
