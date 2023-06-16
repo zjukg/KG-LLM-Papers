@@ -23,6 +23,7 @@
 
   
 - [📜 Papers](#papers)
+  - [🔖 Surveys](#surveys)
   - [⚙ Methods](#methods)
   - [🧰 Resources](#resources)
 
