@@ -34,7 +34,7 @@
 ##  Papers
 
 ### Surveys
-- \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06`
+- \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Rep](https://github.com/RManLuo/Awesome-LLM-KG)\]
  
 ### Methods
 - \[[arxiv](https://arxiv.org/pdf/2305.04676)\] Enhancing Knowledge Graph Construction Using Large Language Models. `2023.05`
