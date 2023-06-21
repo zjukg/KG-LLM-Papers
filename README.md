@@ -34,7 +34,7 @@
 ##  Papers
 
 ### Surveys
-- \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Rep](https://github.com/RManLuo/Awesome-LLM-KG)\]
+- \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG)\]
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
  
 ### Methods
@@ -53,7 +53,7 @@
 - \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\] Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2305.16755)\] Can large language models generate salient negative statements? `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.15066)\] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.01157)\] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Rep](https://github.com/Akirato/LLM-KG-Reasoning/tree/main)\]
+- \[[arxiv](https://arxiv.org/abs/2305.01157)\] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main)\]
 - \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
 
