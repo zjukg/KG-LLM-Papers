@@ -6,7 +6,7 @@
 
 >What can LLMs do for KGs? Or, in other words, what role can KG play in the era of LLMs?
 
-🙌 This repository collects papers intergrating **knowledge graphs (KGs)** and **large language models (LLMs)**.
+🙌 This repository collects papers integrating **knowledge graphs (KGs)** and **large language models (LLMs)**.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
