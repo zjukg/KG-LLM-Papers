@@ -61,7 +61,7 @@
 
 ### Resources
 
----
+- \[[arxiv](https://arxiv.org/abs/2306.14704)\] Ontology Enrichment from Texts: A Biomedical Dataset for Concept Discovery and Placement. `2023.06`
 
 
 
