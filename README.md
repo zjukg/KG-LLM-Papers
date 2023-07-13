@@ -38,7 +38,7 @@
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
  
 ### Methods
-- \[[arxiv](https://arxiv.org/abs/2307.01128)\] Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction. `2023.06`
+- \[[arxiv](https://arxiv.org/abs/2307.01128)\] Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10241)\] Snowman: A Million-scale Chinese Commonsense Knowledge Graph Distilled from Foundation Model
 . `2023.06` `tech report` `KG construction`
