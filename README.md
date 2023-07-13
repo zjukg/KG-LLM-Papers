@@ -38,6 +38,7 @@
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
  
 ### Methods
+ \[[arxiv](https://arxiv.org/abs/2307.01128)\] Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10241)\] Snowman: A Million-scale Chinese Commonsense Knowledge Graph Distilled from Foundation Model
 . `2023.06` `tech report` `KG construction`
@@ -47,6 +48,7 @@
 - \[[arxiv](https://arxiv.org/abs/2305.03513)\] ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs. `2023.05`
 - \[[ACL 2023](https://arxiv.org/abs/2305.06590)\] FactKG: Fact Verification via Reasoning on Knowledge Graphs. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2304.05973)\] HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting. `2023.04`
+- \[[arxiv](https://arxiv.org/abs/2305.09645)\] StructGPT: A General Framework for Large Language Model to Reason over Structured Data. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.19523)\] Explanations as Features: LLM-Based Features for Text-Attributed Graphs. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.13168)\] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.10037)\] Can Language Models Solve Graph Problems in Natural Language? `2023.05`
