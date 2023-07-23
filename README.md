@@ -36,6 +36,7 @@
 ### Surveys
 - \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG)\]
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
+- \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
  
 ### Methods
 - \[[arxiv](https://arxiv.org/abs/2307.06917)\] LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT. `2023.07`
