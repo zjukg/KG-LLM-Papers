@@ -39,6 +39,7 @@
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
  
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2307.07697)\] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.06917)\] LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.01128)\] Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
