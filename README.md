@@ -39,6 +39,7 @@
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
  
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2307.11772)\] AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.07312)\] Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.07697)\] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.03393)\] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs. `2023.07`
