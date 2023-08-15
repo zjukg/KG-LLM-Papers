@@ -37,7 +37,8 @@
 - \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG)\]
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
- 
+- \[[arxiv](https://arxiv.org/abs/2308.06374)\] Large Language Models and Knowledge Graphs: Opportunities and Challenges. `2023.08`
+
 ### Methods
 - \[[arxiv](https://arxiv.org/abs/2307.11772)\] AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.07312)\] Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs. `2023.07`
