@@ -40,6 +40,15 @@
 - \[[arxiv](https://arxiv.org/abs/2308.06374)\] Large Language Models and Knowledge Graphs: Opportunities and Challenges. `2023.08`
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2308.13916)\] Exploring Large Language Models for Knowledge Graph Completion. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.16622)\] Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.14321)\] Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.12028)\] LKPNR: LLM and KG for Personalized News Recommendation Framework. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.11730)\] Knowledge Graph Prompting for Multi-Document Question Answering. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.10168)\] Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.09729)\] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.02357)\] Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.00081)\] Towards Semantically Enriched Embeddings for Knowledge Graph Completion. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.11772)\] AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.07312)\] Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.07697)\] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph. `2023.07`
@@ -50,7 +59,7 @@
 - \[[arxiv](https://arxiv.org/abs/2307.01128)\] Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10241)\] Snowman: A Million-scale Chinese Commonsense Knowledge Graph Distilled from Foundation Model
-. `2023.06` `tech report` `KG construction`
+. `2023.06`
 - \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\] Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
 - \[[arxiv](https://arxiv.org/pdf/2305.04676)\] Enhancing Knowledge Graph Construction Using Large Language Models. `2023.05`
