@@ -34,12 +34,22 @@
 ##  Papers
 
 ### Surveys
+- \[[arxiv](https://arxiv.org/abs/2309.01029)\] Explainability for Large Language Models: A Survey. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2308.14217)\] Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.06374)\] Large Language Models and Knowledge Graphs: Opportunities and Challenges. `2023.08`
 - \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG)\]
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2308.06374)\] Large Language Models and Knowledge Graphs: Opportunities and Challenges. `2023.08`
+
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2309.00240)\] FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking. `2023.09`
+- \[[arxiv](https://arxiv.org/pdf/2309.01538)\] ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2309.04695)\] Code-Style In-Context Learning for Knowledge-Based Question Answering. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2309.04565)\] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2309.04175)\] Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2309.03118)\] Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2308.14429)\] Biomedical Entity Linking with Triple-aware Pre-Training. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.13916)\] Exploring Large Language Models for Knowledge Graph Completion. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.16622)\] Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.14321)\] Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction. `2023.08`
