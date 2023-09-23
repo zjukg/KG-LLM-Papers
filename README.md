@@ -43,6 +43,10 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2309.12132)\] A knowledge representation approach for construction contract knowledge modeling. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2309.11206)\] Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2309.08594)\] "Merge Conflicts!" Exploring the Impacts of External Distractors to Parametric Knowledge Graphs. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2309.04565)\] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.00240)\] FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking. `2023.09`
 - \[[arxiv](https://arxiv.org/pdf/2309.01538)\] ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.04695)\] Code-Style In-Context Learning for Knowledge-Based Question Answering. `2023.09`
@@ -96,7 +100,7 @@
 - \[[arxiv](https://arxiv.org/abs/2306.14704)\] Ontology Enrichment from Texts: A Biomedical Dataset for Concept Discovery and Placement. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.05783)\] Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2210.00305)\] LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings `2023.03` \[[Repo](http://47.92.96.190:9001/)\]
-
+- \[[arxiv](https://arxiv.org/abs/2309.11669)\] Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. `2023.09`
 
 
 
