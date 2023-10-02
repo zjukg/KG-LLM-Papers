@@ -43,6 +43,8 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/pdf/2309.16134)\] Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain. `2023.09`
+- \[[arxiv](https://arxiv.org/pdf/2309.15427)\] Graph Neural Prompting with Large Language Models. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.12132)\] A knowledge representation approach for construction contract knowledge modeling. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.11206)\] Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.08594)\] "Merge Conflicts!" Exploring the Impacts of External Distractors to Parametric Knowledge Graphs. `2023.09`
