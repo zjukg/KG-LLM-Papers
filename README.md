@@ -79,6 +79,7 @@
 . `2023.06`
 - \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\] Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
+- \[[arxiv](https://arxiv.org/abs/2305.18395)\] Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks. `2023.05`
 - \[[arxiv](https://arxiv.org/pdf/2305.04676)\] Enhancing Knowledge Graph Construction Using Large Language Models. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.03513)\] ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs. `2023.05`
 - \[[ACL 2023](https://arxiv.org/abs/2305.06590)\] FactKG: Fact Verification via Reasoning on Knowledge Graphs. `2023.05`
