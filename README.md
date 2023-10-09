@@ -44,6 +44,12 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2310.03269)\] InstructProtein: Aligning Human and Protein Language via Knowledge Instruction. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.02166)\] Large Language Models Meet Knowledge Graphs to Answer Factoid Questions. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.01290)\] Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.01061)\] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.00299)\] RelBERT: Embedding Relations with Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2309.17122)\] Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?. `2023.09`
 - \[[arxiv](https://arxiv.org/pdf/2309.16134)\] Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain. `2023.09`
 - \[[arxiv](https://arxiv.org/pdf/2309.15427)\] Graph Neural Prompting with Large Language Models. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.12132)\] A knowledge representation approach for construction contract knowledge modeling. `2023.09`
