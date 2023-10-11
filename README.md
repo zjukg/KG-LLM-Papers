@@ -13,8 +13,8 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
-- **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
 - **`2023-10` We preprint our paper [`Making Large Language Models Perform Better in Knowledge Graph Completion`](https://arxiv.org/abs/2310.06671) and release the [Repo](https://github.com/zjukg/KoPA).**
+- **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
 
 *Todo:*
 1. - [ ] `Fine-grained classification of papers`
@@ -130,3 +130,17 @@
 - 😄 A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
 
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
+
+## 🤝 Cite:
+Please condiser citing this Repo. Thanks a lot :)
+
+```bigquery
+@misc{zhang2023making,
+      title={Making Large Language Models Perform Better in Knowledge Graph Completion}, 
+      author={Yichi Zhang and Zhuo Chen and Wen Zhang and Huajun Chen},
+      year={2023},
+      eprint={2310.06671},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
