@@ -13,7 +13,8 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
-- **2023-06-12 We create this repository to maintain a paper list on *Intergrating Knowledge Graphs and Large Language Models*.**
+- **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
+- **`2023-10` We preprint our paper [`Making Large Language Models Perform Better in Knowledge Graph Completion`](https://arxiv.org/abs/2310.06671) and release the [Repo](https://github.com/zjukg/KoPA).**
 
 *Todo:*
 1. - [ ] `Fine-grained classification of papers`
@@ -44,6 +45,7 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2310.06671)\] Making Large Language Models Perform Better in Knowledge Graph Completion. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.03269)\] InstructProtein: Aligning Human and Protein Language via Knowledge Instruction. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.02166)\] Large Language Models Meet Knowledge Graphs to Answer Factoid Questions. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.01290)\] Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models. `2023.10`
