@@ -28,13 +28,14 @@
 - [📜 Papers](#papers)
   - [🔖 Surveys](#surveys)
   - [⚙ Methods](#methods)
-  - [🧰 Resources](#resources)
+  - [🧰 Resources](#resources-and-benchmarking)
 
 ---
 
 ##  Papers
 
 ### Surveys
+- \[[arxiv](https://arxiv.org/abs/2310.04835)\] On the Evolution of Knowledge Graphs: A Survey and Perspective. `2023.10`
 - \[[arxiv](https://arxiv.org/pdf/2309.17122)\] Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle? `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.01029)\] Explainability for Large Language Models: A Survey. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2308.14217)\] Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact. `2023.08`
@@ -46,6 +47,8 @@
 
 ### Methods
 - \[[arxiv](https://arxiv.org/abs/2310.06671)\] Making Large Language Models Perform Better in Knowledge Graph Completion. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.08279)\] CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.07170)\] PHALM: Building a Knowledge Graph from Scratch by Prompting Humans and a Language Model. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.03269)\] InstructProtein: Aligning Human and Protein Language via Knowledge Instruction. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.02166)\] Large Language Models Meet Knowledge Graphs to Answer Factoid Questions. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.01290)\] Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models. `2023.10`
@@ -107,13 +110,14 @@
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
 
 
-### Resources
+### Resources and Benchmarking
 
 - \[[arxiv](https://arxiv.org/abs/2306.14704)\] Ontology Enrichment from Texts: A Biomedical Dataset for Concept Discovery and Placement. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.05783)\] Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2210.00305)\] LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings `2023.03` \[[Repo](http://47.92.96.190:9001/)\]
 - \[[arxiv](https://arxiv.org/abs/2309.11669)\] Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. `2023.09`
-
+- \[[arxiv](https://arxiv.org/abs/2310.08487)\] GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
 
 
 ## Contribution
