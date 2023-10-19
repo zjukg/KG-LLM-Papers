@@ -35,6 +35,7 @@
 ##  Papers
 
 ### Surveys
+- \[[arxiv](https://arxiv.org/abs/2310.07521)\] Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.04835)\] On the Evolution of Knowledge Graphs: A Survey and Perspective. `2023.10`
 - \[[arxiv](https://arxiv.org/pdf/2309.17122)\] Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle? `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.01029)\] Explainability for Large Language Models: A Survey. `2023.09`
@@ -43,7 +44,7 @@
 - \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG)\]
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2310.07521)\] Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. `2023.10`
+
 
 ### Methods
 - \[[arxiv](https://arxiv.org/abs/2310.06671)\] Making Large Language Models Perform Better in Knowledge Graph Completion. `2023.10`
