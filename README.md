@@ -47,6 +47,13 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2310.11638)\] Systematic Assessment of Factual Knowledge in Large Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.11220)\] KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.10445)\] MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.09089)\] Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.08975)\] ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.08487)\] GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.06671)\] Making Large Language Models Perform Better in Knowledge Graph Completion. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.08279)\] CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.07170)\] PHALM: Building a Knowledge Graph from Scratch by Prompting Humans and a Language Model. `2023.10`
