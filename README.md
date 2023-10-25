@@ -47,6 +47,7 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2310.13023)\] GraphGPT: Graph Instruction Tuning for Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11638)\] Systematic Assessment of Factual Knowledge in Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11220)\] KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.10445)\] MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities. `2023.10`
