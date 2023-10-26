@@ -47,7 +47,6 @@
 
 
 ### Methods
-- \[[arxiv](https://arxiv.org/abs/2310.15517)\] MarkQA: A large scale KBQA dataset with numerical reasoning. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.13023)\] GraphGPT: Graph Instruction Tuning for Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11638)\] Systematic Assessment of Factual Knowledge in Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11220)\] KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models. `2023.10`
@@ -121,7 +120,7 @@
 
 
 ### Resources and Benchmarking
-
+- \[[arxiv](https://arxiv.org/abs/2310.15517)\] MarkQA: A large scale KBQA dataset with numerical reasoning. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2306.14704)\] Ontology Enrichment from Texts: A Biomedical Dataset for Concept Discovery and Placement. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.05783)\] Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2210.00305)\] LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings `2023.03` \[[Repo](http://47.92.96.190:9001/)\]
