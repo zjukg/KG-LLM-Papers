@@ -47,6 +47,7 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2310.15517)\] MarkQA: A large scale KBQA dataset with numerical reasoning. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.13023)\] GraphGPT: Graph Instruction Tuning for Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11638)\] Systematic Assessment of Factual Knowledge in Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11220)\] KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models. `2023.10`
