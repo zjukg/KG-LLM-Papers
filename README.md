@@ -145,7 +145,7 @@
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
 
 ## 🤝 Cite:
-Please condiser citing this Repo. Thanks a lot :)
+If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
 
 ```bigquery
 @misc{zhang2023making,
