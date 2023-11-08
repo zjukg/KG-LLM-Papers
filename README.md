@@ -47,11 +47,17 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2311.03837)\] OLaLa: Ontology Matching with Large Language Models. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2311.02956)\] In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2311.01266)\] Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2311.00444)\] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2311.00287)\] Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.20170)\] DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.19998)\] Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.18951)\] A Multimodal Ecological Civilization Pattern Recommendation Method Based on Large Language Models and Knowledge Graph. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.18356)\] LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.16421)\] Graph Agent: Explicit Reasoning Agent for Graphs. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.14174)\] An In-Context Schema Understanding Method for Knowledge Base Question Answering. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.13023)\] GraphGPT: Graph Instruction Tuning for Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11638)\] Systematic Assessment of Factual Knowledge in Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.11220)\] KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models. `2023.10`
