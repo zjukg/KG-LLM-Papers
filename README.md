@@ -51,6 +51,7 @@
 - \[[arxiv](https://arxiv.org/abs/2311.02956)\] In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.01266)\] Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.00444)\] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2308.06975)\] Can Knowledge Graphs Simplify Text? `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2311.00287)\] Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.20170)\] DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.19998)\] Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design. `2023.10`
@@ -123,11 +124,13 @@
 - \[[arxiv](https://arxiv.org/abs/2305.16755)\] Can large language models generate salient negative statements? `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.15066)\] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.01157)\] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main)\]
+- \[[arxiv](https://arxiv.org/abs/2204.06674)\] GAP: A Graph-aware Language Model Framework for Knowledge Graph-to-Text Generation `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main)\]
 - \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.05774)\] Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.11116)\] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
+
 
 
 ### Resources and Benchmarking
@@ -138,6 +141,7 @@
 - \[[arxiv](https://arxiv.org/abs/2309.11669)\] Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2310.08487)\] GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2111.00276)\] EventNarrative: A large-scale Event-centric Dataset for Knowledge Graph-to-Text Generation `2021.10`\[[Repo](https://www.kaggle.com/datasets/acolas1/eventnarration)\]
 
 
 ## Contribution
