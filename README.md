@@ -65,7 +65,6 @@
 - \[[arxiv](https://arxiv.org/abs/2310.10445)\] MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.09089)\] Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.08975)\] ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models. `2023.10`
-- \[[arxiv](https://arxiv.org/abs/2310.08487)\] GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.06671)\] Making Large Language Models Perform Better in Knowledge Graph Completion. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.08279)\] CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models. `2023.10`
@@ -137,7 +136,6 @@
 - \[[arxiv](https://arxiv.org/abs/2306.05783)\] Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2210.00305)\] LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings `2023.03` \[[Repo](http://47.92.96.190:9001/)\]
 - \[[arxiv](https://arxiv.org/abs/2309.11669)\] Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. `2023.09`
-- \[[arxiv](https://arxiv.org/abs/2310.08487)\] GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
 
 
