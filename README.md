@@ -13,7 +13,7 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
-- **`2023-11` We preprint our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering]() and release the [[`Repo`](https://github.com/zjukg/KnowPAT)].**
+- **`2023-11` We preprint our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) and release the [[`Repo`](https://github.com/zjukg/KnowPAT)].**
 - **`2023-10` We preprint our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) and release the [[`Repo`](https://github.com/zjukg/KoPA)].**
 - **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
 
