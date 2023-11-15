@@ -159,12 +159,14 @@
 If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
 
 ```bigquery
-@misc{zhang2023making,
-      title={Making Large Language Models Perform Better in Knowledge Graph Completion}, 
-      author={Yichi Zhang and Zhuo Chen and Wen Zhang and Huajun Chen},
-      year={2023},
-      eprint={2310.06671},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{DBLP:journals/corr/abs-2310-06671,
+  author       = {Yichi Zhang and
+                  Zhuo Chen and
+                  Wen Zhang and
+                  Huajun Chen},
+  title        = {Making Large Language Models Perform Better in Knowledge Graph Completion},
+  journal      = {CoRR},
+  volume       = {abs/2310.06671},
+  year         = {2023}
 }
 ```
