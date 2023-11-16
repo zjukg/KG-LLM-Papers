@@ -36,6 +36,7 @@
 ##  Papers
 
 ### Surveys
+- \[[arxiv](https://arxiv.org/abs/2311.07914)\] Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2310.07521)\] Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.04835)\] On the Evolution of Knowledge Graphs: A Survey and Perspective. `2023.10`
 - \[[arxiv](https://arxiv.org/pdf/2309.17122)\] Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle? `2023.09`
