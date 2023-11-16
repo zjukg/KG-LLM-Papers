@@ -135,6 +135,7 @@
 ### Resources and Benchmarking
 - \[[arxiv](https://arxiv.org/abs/2311.09174)\] AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.07509)\] A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2310.05634)\] Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.15517)\] MarkQA: A large scale KBQA dataset with numerical reasoning. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2306.14704)\] Ontology Enrichment from Texts: A Biomedical Dataset for Concept Discovery and Placement. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.05783)\] Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation. `2023.06`
