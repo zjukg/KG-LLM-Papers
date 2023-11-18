@@ -49,6 +49,7 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2311.09841)\] Leveraging LLMs in Scholarly Knowledge Graph Question Answering. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.06503)\] Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.03837)\] OLaLa: Ontology Matching with Large Language Models. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.02956)\] In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models. `2023.11`
