@@ -49,6 +49,7 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2311.13314)\] Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2305.14202)\] Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.09841)\] Leveraging LLMs in Scholarly Knowledge Graph Question Answering. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.06503)\] Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering. `2023.11`
