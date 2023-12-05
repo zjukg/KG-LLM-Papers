@@ -49,6 +49,7 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2311.01862)\] $R^3$-NL2GQL: A Hybrid Models Approach for for Accuracy Enhancing and Hallucinations Mitigation. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.17330)\] Biomedical knowledge graph-enhanced prompt generation for large language models. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.13314)\] Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2305.14202)\] Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata. `2023.11`
