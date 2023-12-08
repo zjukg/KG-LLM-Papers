@@ -59,6 +59,8 @@
 - \[[arxiv](https://arxiv.org/abs/2311.02956)\] In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.01266)\] Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.00444)\] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2310.02166)\] Large Language Models Meet Knowledge Graphs to Answer Factoid Questions. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2310.07008)\] Answer Candidate Type Selection: Text-to-Text Language Model for Closed Book Question Answering Meets Knowledge Graphs. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2311.00287)\] Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.20170)\] DIVKNOWQA: Assessing the Reasoning Ability of LLMs via Open-Domain Question Answering over Knowledge Base and Text. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.19998)\] Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design. `2023.10`
