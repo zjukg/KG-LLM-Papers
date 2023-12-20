@@ -49,6 +49,7 @@
 
 
 ### Methods
+- \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.228/)\]ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph. `2023.12`
 - \[[arxiv](https://arxiv.org/abs/2311.01862)\] $R^3$-NL2GQL: A Hybrid Models Approach for for Accuracy Enhancing and Hallucinations Mitigation. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.17330)\] Biomedical knowledge graph-enhanced prompt generation for large language models. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.13314)\] Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting. `2023.11`
