@@ -1,31 +1,32 @@
 # KG-LLM-Papers
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-LLM-Papers/blob/main/LICENSE)
-![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green) 
-![](https://img.shields.io/badge/PRs-Welcome-red) 
 
->What can LLMs do for KGs? Or, in other words, what role can KG play in the era of LLMs?
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-LLM-Papers/blob/main/LICENSE)
+![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green)
+![](https://img.shields.io/badge/PRs-Welcome-red)
+
+> What can LLMs do for KGs? Or, in other words, what role can KG play in the era of LLMs?
 
 🙌 This repository collects papers integrating **knowledge graphs (KGs)** and **large language models (LLMs)**.
 
-😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
+😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**.
 
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
+
 - **`2023-11` We preprint our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) and release the [[`Repo`](https://github.com/zjukg/KnowPAT)].**
 - **`2023-10` We preprint our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) and release the [[`Repo`](https://github.com/zjukg/KoPA)].**
 - **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
 
-*Todo:*
+_Todo:_
+
 1. - [ ] `Fine-grained classification of papers`
 2. - [ ] `Update paper project / code`
 3. - [ ] `Wiki page for brief paper introduction`
-   
+
 ## Content
 
-
-  
 - [📜 Papers](#papers)
   - [🔖 Surveys](#surveys)
   - [⚙ Methods](#methods)
@@ -33,9 +34,10 @@
 
 ---
 
-##  Papers
+## Papers
 
 ### Surveys
+
 - \[[arxiv](https://arxiv.org/abs/2311.07914)\] Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2310.07521)\] Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.04835)\] On the Evolution of Knowledge Graphs: A Survey and Perspective. `2023.10`
@@ -47,8 +49,8 @@
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
 
-
 ### Methods
+
 - \[[EMNLP 2023](http://arxiv.org/abs/2311.01150)\]Revisiting the Knowledge Injection Frameworks. `2023.12`
 - \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.143)\]Does the Correctness of Factual Knowledge Matter for Factual Knowledge-Enhanced Pre-trained Language Models? `2023.12`
 - \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.228/)\]ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph. `2023.12`
@@ -99,6 +101,7 @@
 - \[[arxiv](https://arxiv.org/abs/2309.04565)\] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.04175)\] Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.03118)\] Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs. `2023.09`
+- \[[arxiv](https://arxiv.org/abs/2308.13276)\] Knowledge-Based Version Incompatibility Detection for Deep Learning. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.14429)\] Biomedical Entity Linking with Triple-aware Pre-Training. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.13916)\] Exploring Large Language Models for Knowledge Graph Completion. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.16622)\] Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering. `2023.08`
@@ -119,7 +122,7 @@
 - \[[arxiv](https://arxiv.org/abs/2307.01128)\] Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10241)\] Snowman: A Million-scale Chinese Commonsense Knowledge Graph Distilled from Foundation Model
-. `2023.06`
+  . `2023.06`
 - \[[arxiv](https://arxiv.org/pdf/2306.04136.pdf)\] Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2306.10723)\] Fine-tuning Large Enterprise Language Models via Ontological Reasoning. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2305.18395)\] Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks. `2023.05`
@@ -134,15 +137,15 @@
 - \[[arxiv](https://arxiv.org/abs/2305.09858)\] Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.16755)\] Can large language models generate salient negative statements? `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.15066)\] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.01157)\] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main)\]
+- \[[arxiv](https://arxiv.org/abs/2305.01157)\] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05` \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main)\]
 - \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.05774)\] Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.11116)\] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
 
-
 ### Resources and Benchmarking
+
 - \[[arxiv](https://arxiv.org/abs/2311.09174)\] AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.07509)\] A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2310.05634)\] Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution. `2023.10`
@@ -153,8 +156,8 @@
 - \[[arxiv](https://arxiv.org/abs/2309.11669)\] Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
 
-
 ## Contribution
+
 ### 👥 Contributors
 
 <a href="https://github.com/zjukg/KG-LLM-Papers/graphs/contributors">
@@ -170,7 +173,9 @@
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
 
 ## 🤝 Cite:
+
 If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
+
 ```bigquery
 @article{DBLP:journals/corr/abs-2311-06503,
   author       = {Yichi Zhang and
@@ -188,6 +193,7 @@ If this Repo is helpful to you, please consider citing our paper. We would great
   year         = {2023}
 }
 ```
+
 ```bigquery
 @article{DBLP:journals/corr/abs-2310-06671,
   author       = {Yichi Zhang and
@@ -200,4 +206,3 @@ If this Repo is helpful to you, please consider citing our paper. We would great
   year         = {2023}
 }
 ```
-
