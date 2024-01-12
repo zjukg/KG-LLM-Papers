@@ -49,6 +49,28 @@
 
 
 ### Methods
+- \[[arxiv](https://arxiv.org/abs/2401.04507)\] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.01711)\] Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.00761)\] The Earth is Flat? Unveiling Factual Errors in Large Language Models. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.00426)\] keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.06072)\] Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.03158)\] Quartet Logic: A Four-Step Reasoning (QLFR) framework for advancing Short Text Classification. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2312.17269)\] Conversational Question Answering with Reformulations over Knowledge Graph. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.15883)\] Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.15880)\] KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.11813)\] Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.11785)\] Zero-Shot Fact-Checking with Semantic Triples and Knowledge Graphs. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.11539)\] KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM Does and Doesn't Know. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.11282)\] LLM-ARK: Knowledge Graph Reasoning Using Large Language Models via Deep Reinforcement Learning. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.09126)\] Towards Trustworthy AI Software Development Assistance. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.06185)\] KnowGPT: Black-Box Knowledge Injection for Large Language Models. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.05276)\] Making Large Language Models Better Knowledge Miners for Online Marketing with Progressive Prompting Augmentation. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.03749)\] Conceptual Engineering Using Large Language Models. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.03022)\] Beyond Isolation: Multi-Agent Synergy for Improving Knowledge Graph Construction. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.01954)\] Zero- and Few-Shots Knowledge Graph Triplet Extraction with Large Language Models. `2023.12`
+- \[[arxiv](https://arxiv.org/abs/2312.00353)\] On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2311.17330)\] Biomedical knowledge graph-enhanced prompt generation for large language models. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2311.16137)\] A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction. `2023.11`
 - \[[EMNLP 2023](http://arxiv.org/abs/2311.01150)\]Revisiting the Knowledge Injection Frameworks. `2023.12`
 - \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.143)\]Does the Correctness of Factual Knowledge Matter for Factual Knowledge-Enhanced Pre-trained Language Models? `2023.12`
 - \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.228/)\]ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph. `2023.12`
