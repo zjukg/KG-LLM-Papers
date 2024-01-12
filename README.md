@@ -114,7 +114,6 @@
 - \[[arxiv](https://arxiv.org/abs/2309.12132)\] A knowledge representation approach for construction contract knowledge modeling. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.11206)\] Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.08594)\] "Merge Conflicts!" Exploring the Impacts of External Distractors to Parametric Knowledge Graphs. `2023.09`
-- \[[arxiv](https://arxiv.org/abs/2309.04565)\] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.00240)\] FactLLaMA: Optimizing Instruction-Following Language Models with External Knowledge for Automated Fact-Checking. `2023.09`
 - \[[arxiv](https://arxiv.org/pdf/2309.01538)\] ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.04695)\] Code-Style In-Context Learning for Knowledge-Based Question Answering. `2023.09`
