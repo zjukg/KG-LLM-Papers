@@ -164,6 +164,7 @@
 
 
 ### Resources and Benchmarking
+- \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2311.09174)\] AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.07509)\] A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2310.05634)\] Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution. `2023.10`
