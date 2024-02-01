@@ -191,6 +191,8 @@
 
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
 
+![Star History Chart](https://api.star-history.com/svg?repos=zjukg/KG-LLM-Papers&type=Date)
+
 ## 🤝 Cite:
 If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
 ```bigquery
