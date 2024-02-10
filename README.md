@@ -18,10 +18,12 @@
 - **`2023-10` We preprint our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) and release the [[`Repo`](https://github.com/zjukg/KoPA)].**
 - **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
 
+<!--
 *Todo:*
 1. - [ ] `Fine-grained classification of papers`
 2. - [ ] `Update paper project / code`
 3. - [ ] `Wiki page for brief paper introduction`
+-->
    
 ## Content
 
