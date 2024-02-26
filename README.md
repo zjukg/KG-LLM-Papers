@@ -52,7 +52,47 @@
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
 
 
-### Methods
+### Method
+- \[[arxiv](https://arxiv.org/abs/2402.15048)\] Unlocking the Power of Large Language Models for Entity Alignment. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.14382)\] Enhancing Temporal Knowledge Graph Forecasting with Large Language Models via Chain-of-History Reasoning. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.13750)\] Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.13593)\] Knowledge Graph Enhanced Large Language Model Editing. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.12728)\] Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.12352)\] Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.11804)\] LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.11541)\] Counter-intuitive: Large Language Models Can Better Understand Knowledge Graphs Than We Thought. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.11441)\] InfuserKI: Enhancing Large Language Models with Knowledge Graphs via Infuser-Guided Knowledge Integration. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.11323)\] Towards Development of Automated Knowledge Maps and Databases for Materials Engineering using Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.11163)\] KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.11034)\] PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.10779)\] A Condensed Transition Graph Framework for Zero-shot Link Prediction with Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.09911)\] Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.07630)\] G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.07148)\] X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Design. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.07016)\] REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.06861)\] UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.06764)\] GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.05862)\] Let Your Graph Do the Talking: Encoding Structured Data for LLMs. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.05135)\] CADReN: Contextual Anchor-Driven Relational Network for Controllable Cross-Graphs Node Importance Estimation. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.04978)\] An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.04627)\] SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.03339)\] Interplay of Semantic Communication and Knowledge Learning. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.03299)\] GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.02389)\] KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.02130)\] Rendering Graphs for Graph Reasoning in Multimodal Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.01730)\] Evaluating LLM -- Generated Multimodal Diagnosis from Medical Images and Symptom Analysis. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.01729)\] Contextualization Distillation from Large Language Model for Knowledge Graph Completion. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.01495)\] A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.00414)\] Prompt-Time Symbolic Knowledge Capture with Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.00292)\] Effective Bug Detection in Graph Database Engines: An LLM-based Approach. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2401.16960)\] Two Heads Are Better Than One: Integrating Knowledge from Knowledge Graphs and Large Language Models for Entity Alignment. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.13444)\] Clue-Guided Path Exploration: An Efficient Knowledge Base Question-Answering Framework with Low Computational Resource Consumption. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.12863)\] KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.12671)\] Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.08517)\] Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.07237)\] Distilling Event Sequence Knowledge From Large Language Models. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.06072)\] Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.04507)\] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.01711)\] Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.00761)\] The Earth is Flat? Unveiling Factual Errors in Large Language Models. `2024.01`
@@ -168,6 +208,7 @@
 
 
 ### Resources and Benchmarking
+- \[[arxiv](https://arxiv.org/abs/2402.06341)\] RareBench: Can LLMs Serve as Rare Diseases Specialists?. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2311.09174)\] AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.07509)\] A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases. `2023.11`
