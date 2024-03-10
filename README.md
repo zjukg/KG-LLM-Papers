@@ -53,6 +53,20 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2403.04261)\] Advancing Biomedical Text Mining with Community Challenges. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.03008)\] Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.02966)\] Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.02576)\] AceMap: Knowledge Discovery through Academic Graph. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.02253)\] KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.02014)\] Unveiling Hidden Links Between Unseen Security Entities. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.01972)\] Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.01481)\] Infusing Knowledge into Large Language Models with Contextual Prompts. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.01395)\] CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.01390)\] Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.01382)\] Automatic Question-Answer Generation for Long-Tail Knowledge. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.00953)\] AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2402.17786)\] Stepwise Self-Consistent Mathematical Reasoning with Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.16568)\] Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.15048)\] Unlocking the Power of Large Language Models for Entity Alignment. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.14382)\] Enhancing Temporal Knowledge Graph Forecasting with Large Language Models via Chain-of-History Reasoning. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.13750)\] Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph. `2024.02`
