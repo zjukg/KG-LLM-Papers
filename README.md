@@ -53,6 +53,8 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2403.07311)\] Knowledge Graph Large Language Model (KG-LLM) for Link Prediction. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.05881)\] KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.04261)\] Advancing Biomedical Text Mining with Community Challenges. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.03008)\] Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.02966)\] Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering. `2024.03`
