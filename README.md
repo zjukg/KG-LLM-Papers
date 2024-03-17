@@ -39,7 +39,7 @@
 ##  Papers
 
 ### Surveys
-- \[[arxiv]()\] Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.05391)\] Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2311.07914)\] Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2310.07521)\] Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.04835)\] On the Evolution of Knowledge Graphs: A Survey and Perspective. `2023.10`
