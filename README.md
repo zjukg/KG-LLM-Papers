@@ -53,6 +53,13 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2403.14950)\] KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.14253)\] K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.12151)\] Fusing Domain-Specific Content from Large Language Models into Knowledge Graphs for Enhanced Zero Shot Object State Classification. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.11786)\] Construction of Hyper-Relational Knowledge Graphs Using Pre-Trained Large Language Models. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.08593)\] Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.08345)\] From human experts to machines: An LLM supported approach to ontology and knowledge graph construction. `2024.03`
+- \[[arxiv](https://arxiv.org/abs/2403.07398)\] Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.07311)\] Knowledge Graph Large Language Model (KG-LLM) for Link Prediction. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.05881)\] KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.04261)\] Advancing Biomedical Text Mining with Community Challenges. `2024.03`
