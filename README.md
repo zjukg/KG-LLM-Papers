@@ -55,6 +55,7 @@
 ### Method
 - \[[arxiv](https://arxiv.org/abs/2404.00942)\] Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2403.14950)\] KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation. `2024.03`
+- \[[LREC-COLING 2024](https://arxiv.org/abs/2403.17532)\] KC-GenRe: A Knowledge-constrained Generative Re-ranking Method Based on Large Language Models for Knowledge Graph Completion. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.14253)\] K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.12151)\] Fusing Domain-Specific Content from Large Language Models into Knowledge Graphs for Enhanced Zero Shot Object State Classification. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.11786)\] Construction of Hyper-Relational Knowledge Graphs Using Pre-Trained Large Language Models. `2024.03`
