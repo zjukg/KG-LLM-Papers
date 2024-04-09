@@ -70,7 +70,7 @@
 - \[[arxiv](https://arxiv.org/abs/2403.02576)\] AceMap: Knowledge Discovery through Academic Graph. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.02253)\] KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.02014)\] Unveiling Hidden Links Between Unseen Security Entities. `2024.03`
-- \[[arxiv](https://arxiv.org/abs/2403.01972)\] Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models. `2024.03`
+- \[[LREC-COLING 2024](https://arxiv.org/abs/2403.01972)\] Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.01481)\] Infusing Knowledge into Large Language Models with Contextual Prompts. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.01395)\] CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2403.01390)\] Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering. `2024.03`
