@@ -53,6 +53,9 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2403.16130)\] From Local to Global: A Graph RAG Approach to Query-Focused Summarization. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2312.15883)\] HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.00942)\] Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.00942)\] Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2403.14950)\] KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation. `2024.03`
 - \[[LREC-COLING 2024](https://arxiv.org/abs/2403.17532)\] KC-GenRe: A Knowledge-constrained Generative Re-ranking Method Based on Large Language Models for Knowledge Graph Completion. `2024.03`
