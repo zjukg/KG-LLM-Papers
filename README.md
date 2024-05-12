@@ -53,6 +53,7 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2404.14741)\] Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.16130)\] From Local to Global: A Graph RAG Approach to Query-Focused Summarization. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2312.15883)\] HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.00942)\] Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs. `2024.04`
