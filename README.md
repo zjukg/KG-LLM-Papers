@@ -13,8 +13,8 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
+- **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. [[`Repo`](https://github.com/zjukg/KnowPAT)]**
 - **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
-- **`2023-11` We preprint our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) and release the [[`Repo`](https://github.com/zjukg/KnowPAT)].**
 - **`2023-10` We preprint our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) and release the [[`Repo`](https://github.com/zjukg/KoPA)].**
 - **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
 
@@ -53,6 +53,41 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2405.10288)\] Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.09713)\] SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.06545)\] Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.06524)\] Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.04819)\] DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.04756)\] BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.04753)\] AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.04180)\] Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.03734)\] FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.02738)\] Relations Prediction for Knowledge Graph Completion using Large Language Models. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.02105)\] Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.01649)\] Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.00449)\] RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2404.19744)\] PrivComp-KG : Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.19234)\] Multi-hop Question Answering over Knowledge Graphs using Large Language Models. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.19146)\] Automated Construction of Theme-specific Knowledge Graphs. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.17723)\] Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.17000)\] Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.15923)\] KGValidator: A Framework for Automatic Validation of Knowledge Graph Construction. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.13865)\] Context-Enhanced Language Models for Generating Multi-Paper Citations. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.10384)\] Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.09763)\] KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.09077)\] CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.07677)\] ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.06571)\] Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.04264)\] Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.03868)\] Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.03623)\] Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.03080)\] Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.02389)\] On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.01720)\] Self-Improvement Programming for Temporal Knowledge Graph Question Answering. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.01425)\] A Preliminary Roadmap for LLMs as Assistants in Exploring, Analyzing, and Visualizing Knowledge Graphs. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.00942)\] Evaluating the Factuality of Large Language Models using Large-Scale Knowledge Graphs. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.00589)\] Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2404.00209)\] EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.14741)\] Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.16130)\] From Local to Global: A Graph RAG Approach to Query-Focused Summarization. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2312.15883)\] HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses. `2024.04`
