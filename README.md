@@ -234,7 +234,6 @@
 - \[[arxiv](https://arxiv.org/abs/2308.11730)\] Knowledge Graph Prompting for Multi-Document Question Answering. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.10168)\] Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.09729)\] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models. `2023.08`
-- \[[ISWC 2023](https://arxiv.org/abs/2308.02357)\] Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.00081)\] Towards Semantically Enriched Embeddings for Knowledge Graph Completion. `2023.07`
 - \[[TKDE 2024](https://arxiv.org/abs/2307.11772)\] AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment enabled by Large Language Models. `2023.07`
 - \[[arxiv](https://arxiv.org/abs/2307.07312)\] Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs. `2023.07`
@@ -280,6 +279,8 @@
 - \[[AACL 2023 System Demonstrations](https://arxiv.org/abs/2210.00305)\] LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings `2023.03` \[[Repo](http://47.92.96.190:9001/)\]
 - \[[arxiv](https://arxiv.org/abs/2309.11669)\] Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
+- - \[[ISWC 2023](https://arxiv.org/abs/2308.02357)\] Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text. `2023.08`
+
 
 
 ## Contribution
