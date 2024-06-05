@@ -53,7 +53,7 @@
 
 
 ### Method
-- \[[arxiv](https://arxiv.org/abs/2405.20455)\] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2405.20455)\] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG)\]
 - \[[arxiv](https://arxiv.org/abs/2405.16412)\] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.10288)\] Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.09713)\] SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge. `2024.05`
