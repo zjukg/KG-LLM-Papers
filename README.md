@@ -53,6 +53,14 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2406.03746)\] Efficient Knowledge Infusion via KG-LLM Alignment. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.02962)\] Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.02110)\] UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Model. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.02030)\] Multimodal Reasoning with Multimodal Knowledge Graph. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.01391)\] Knowledge Graph in Astronomical Research with Large Language Models: Quantifying Driving Forces in Interdisciplinary Scientific Discovery. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.01238)\] EffiQA: Efficient Question-Answering with Strategic Multi-Model Collaboration on Knowledge Graphs. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.01145)\] Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.00036)\] EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2405.20455)\] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG)\]
 - \[[arxiv](https://arxiv.org/abs/2405.14831)\] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG)\]
 - \[[arxiv](https://arxiv.org/abs/2405.16412)\] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.05`
