@@ -166,6 +166,7 @@
 - \[[arxiv](https://arxiv.org/abs/2401.12671)\] Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.08517)\] Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.07237)\] Distilling Event Sequence Knowledge From Large Language Models. `2024.01`
+- \[[ACL 24](https://arxiv.org/abs/2401.06853)\] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM)\]
 - \[[arxiv](https://arxiv.org/abs/2401.06072)\] Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.04507)\] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.01711)\] Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs. `2024.01`
@@ -282,6 +283,7 @@
 - \[[arxiv](https://arxiv.org/abs/2404.13207)\] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark)\]
 - \[[arxiv](https://arxiv.org/abs/2402.06341)\] RareBench: Can LLMs Serve as Rare Diseases Specialists?. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
+- \[[ACL 24](https://arxiv.org/abs/2401.06853)\] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM)\]
 - \[[arxiv](https://arxiv.org/abs/2311.09174)\] AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2311.07509)\] A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2310.05634)\] Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution. `2023.10`
@@ -291,7 +293,7 @@
 - \[[AACL 2023 System Demonstrations](https://arxiv.org/abs/2210.00305)\] LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings `2023.03` \[[Repo](http://47.92.96.190:9001/)\]
 - \[[arxiv](https://arxiv.org/abs/2309.11669)\] Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2310.08365)\] From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer. `2023.10`
-- - \[[ISWC 2023](https://arxiv.org/abs/2308.02357)\] Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text. `2023.08`
+- \[[ISWC 2023](https://arxiv.org/abs/2308.02357)\] Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text. `2023.08`
 
 
 
