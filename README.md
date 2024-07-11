@@ -168,7 +168,7 @@
 - \[[arxiv](https://arxiv.org/abs/2401.07237)\] Distilling Event Sequence Knowledge From Large Language Models. `2024.01`
 - \[[ACL 24](https://arxiv.org/abs/2401.06853)\] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM)\]
 - \[[arxiv](https://arxiv.org/abs/2401.06072)\] Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion. `2024.01`
-- \[[arxiv](https://arxiv.org/abs/2401.04507)\] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. `2024.01`
+- \[[arxiv](https://arxiv.org/abs/2401.04507)\] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. `2024.01` \[[Repo](https://github.com/neukg/TechGPT-2.0)\]
 - \[[arxiv](https://arxiv.org/abs/2401.01711)\] Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.00761)\] The Earth is Flat? Unveiling Factual Errors in Large Language Models. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.00426)\] keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM. `2024.01`
@@ -187,7 +187,7 @@
 - \[[arxiv](https://arxiv.org/abs/2312.03022)\] Beyond Isolation: Multi-Agent Synergy for Improving Knowledge Graph Construction. `2023.12`
 - \[[arxiv](https://arxiv.org/abs/2312.01954)\] Zero- and Few-Shots Knowledge Graph Triplet Extraction with Large Language Models. `2023.12`
 - \[[arxiv](https://arxiv.org/abs/2312.00353)\] On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs. `2023.11`
-- \[[arxiv](https://arxiv.org/abs/2311.17330)\] Biomedical knowledge graph-enhanced prompt generation for large language models. `2023.11`
+- \[[arxiv](https://arxiv.org/abs/2311.17330)\] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG)\]
 - \[[arxiv](https://arxiv.org/abs/2311.16137)\] A Graph-to-Text Approach to Knowledge-Grounded Response Generation in Human-Robot Interaction. `2023.11`
 - \[[EMNLP 2023](http://arxiv.org/abs/2311.01150)\]Revisiting the Knowledge Injection Frameworks. `2023.12`
 - \[[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.143)\]Does the Correctness of Factual Knowledge Matter for Factual Knowledge-Enhanced Pre-trained Language Models? `2023.12`
@@ -224,7 +224,7 @@
 - \[[arxiv](https://arxiv.org/abs/2310.03269)\] InstructProtein: Aligning Human and Protein Language via Knowledge Instruction. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.02166)\] Large Language Models Meet Knowledge Graphs to Answer Factoid Questions. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.01290)\] Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models. `2023.10`
-- \[[ICLR 2024](https://arxiv.org/abs/2310.01061)\] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10`
+- \[[ICLR 2024](https://arxiv.org/abs/2310.01061)\] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs)\]
 - \[[arxiv](https://arxiv.org/abs/2310.00299)\] RelBERT: Embedding Relations with Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2309.17122)\] Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?. `2023.09`
 - \[[arxiv](https://arxiv.org/pdf/2309.16134)\] Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain. `2023.09`
@@ -239,7 +239,7 @@
 - \[[arxiv](https://arxiv.org/abs/2309.04175)\] Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.03118)\] Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2308.14429)\] Biomedical Entity Linking with Triple-aware Pre-Training. `2023.08`
-- \[[arxiv](https://arxiv.org/abs/2308.13916)\] Exploring Large Language Models for Knowledge Graph Completion. `2023.08`
+- \[[arxiv](https://arxiv.org/abs/2308.13916)\] Exploring Large Language Models for Knowledge Graph Completion. `2023.08` \[[Repo](https://github.com/yao8839836/kg-llm)\]
 - \[[arxiv](https://arxiv.org/abs/2308.16622)\] Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.14321)\] Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.12028)\] LKPNR: LLM and KG for Personalized News Recommendation Framework. `2023.08`
@@ -266,7 +266,7 @@
 - \[[arxiv](https://arxiv.org/abs/2304.05973)\] HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting. `2023.04`
 - \[[EMNLP 2023](https://arxiv.org/abs/2305.09645)\] StructGPT: A General Framework for Large Language Model to Reason over Structured Data. `2023.05`
 - \[[ICLR 2024](https://arxiv.org/abs/2305.19523)\] Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2305.13168)\] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05`
+- \[[arxiv](https://arxiv.org/abs/2305.13168)\] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG)\]
 - \[[NeurIPS 2023](https://arxiv.org/abs/2305.10037)\] Can Language Models Solve Graph Problems in Natural Language? `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.09858)\] Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.16755)\] Can large language models generate salient negative statements? `2023.05`
