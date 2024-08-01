@@ -53,7 +53,17 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2407.00653)\] Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs. `2024.07`
+- \[[arxiv](https://arxiv.org/abs/2407.10793)\] GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework. `2024.07`
+- \[[arxiv](https://arxiv.org/abs/2407.10805)\] Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval. `2024.07`
+- \[[ISWC 2024](https://arxiv.org/abs/2407.16127)\] Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion. `2024.07`
+- \[[ACL 2024 findings](https://arxiv.org/abs/2402.16568)\] Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models. `2024.07`
+- \[[arxiv](https://arxiv.org/abs/2407.21358)\] Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs. `2024.07`
+- \[[ACL 2024 findings](https://arxiv.org/abs/2402.11199)\] Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.03746)\] Efficient Knowledge Infusion via KG-LLM Alignment. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.18114)\] Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.13862)\] Knowledge Graph-Enhanced Large Language Models via Path Selection. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.14282)\] Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.02962)\] Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.02110)\] UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Model. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.02030)\] Multimodal Reasoning with Multimodal Knowledge Graph. `2024.06`
