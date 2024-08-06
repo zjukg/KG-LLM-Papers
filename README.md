@@ -59,6 +59,7 @@
 - \[[ISWC 2024](https://arxiv.org/abs/2407.16127)\] Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion. `2024.07`
 - \[[ACL 2024 findings](https://arxiv.org/abs/2402.16568)\] Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models. `2024.07`
 - \[[arxiv](https://arxiv.org/abs/2407.21358)\] Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs. `2024.07`
+- \[[NAACL 2024 findings](https://arxiv.org/abs/2310.07793)\] GenTKG: Generative Forecasting on Temporal Knowledge Graph with Large Language Models. `2024.06`
 - \[[ACL 2024 findings](https://arxiv.org/abs/2402.11199)\] Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.03746)\] Efficient Knowledge Infusion via KG-LLM Alignment. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.18114)\] Knowledge Graph Enhanced Retrieval-Augmented Generation for Failure Mode and Effects Analysis. `2024.06`
