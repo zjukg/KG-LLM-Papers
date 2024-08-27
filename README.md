@@ -73,8 +73,10 @@
 - \[[arxiv](https://arxiv.org/abs/2406.01145)\] Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.00036)\] EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2405.20455)\] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG)\]
+- \[[arxiv](https://arxiv.org/abs/2405.19877)\] KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models  `2024.05` \[[Repo](https://github.com/KnowOntology)\]
 - \[[arxiv](https://arxiv.org/abs/2405.14831)\] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG)\]
 - \[[arxiv](https://arxiv.org/abs/2405.16412)\] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2405.14012)\] Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models  `2024.05` \[[Repo](https://github.com/HaltiaAI/paper-PTODSKC)\]
 - \[[arxiv](https://arxiv.org/abs/2405.10288)\] Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.09713)\] SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.06545)\] Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval. `2024.05`
@@ -168,7 +170,7 @@
 - \[[arxiv](https://arxiv.org/abs/2402.01730)\] Evaluating LLM -- Generated Multimodal Diagnosis from Medical Images and Symptom Analysis. `2024.02`
 - \[[EACL 2024](https://arxiv.org/abs/2402.01729)\] Contextualization Distillation from Large Language Model for Knowledge Graph Completion. `2024.02`
 - \[[EACL 2024](https://arxiv.org/abs/2402.01495)\] A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation. `2024.02`
-- \[[arxiv](https://arxiv.org/abs/2402.00414)\] Prompt-Time Symbolic Knowledge Capture with Large Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.00414)\] Prompt-Time Symbolic Knowledge Capture with Large Language Models. `2024.02` \[[Repo](https://github.com/HaltiaAI/paper-PTSKC)\]
 - \[[arxiv](https://arxiv.org/abs/2402.00292)\] Effective Bug Detection in Graph Database Engines: An LLM-based Approach. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2401.16960)\] Two Heads Are Better Than One: Integrating Knowledge from Knowledge Graphs and Large Language Models for Entity Alignment. `2024.01`
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
