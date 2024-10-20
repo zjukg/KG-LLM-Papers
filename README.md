@@ -53,6 +53,7 @@
 
 
 ### Method
+- \[[ACL 2024](https://arxiv.org/abs/2410.02811)\] SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs. `2024.09`
 - \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)\] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` \[[Repo](https://github.com/shiliu-egg/ICML2024_COFT)\]
 - \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)\] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official)\]
 - \[[arxiv](https://arxiv.org/abs/2407.00653)\] Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs. `2024.07`
