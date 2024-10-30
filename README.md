@@ -53,8 +53,11 @@
 
 
 ### Method
-- \[[ACL 2024](https://arxiv.org/abs/2410.02811)\] SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs. `2024.09`
+- \[[arxiv](https://arxiv.org/pdf/2410.18415)\] Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains. `2024.10`
+- \[[arxiv](https://arxiv.org/abs/2410.12609)\] Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs. `2024.10`
+- \[[NeurIPS 2024](https://arxiv.org/abs/2410.07526)\] MKGL: Mastery of a Three-Word Language. `2024.10` \[[Repo](https://github.com/zjukg/MKGL)\]
 - \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)\] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` \[[Repo](https://github.com/shiliu-egg/ICML2024_COFT)\]
+- \[[ACL 2024](https://arxiv.org/abs/2410.02811)\] SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs. `2024.09`
 - \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)\] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official)\]
 - \[[arxiv](https://arxiv.org/abs/2407.00653)\] Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs. `2024.07`
 - \[[arxiv](https://arxiv.org/abs/2407.10793)\] GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework. `2024.07`
