@@ -56,6 +56,7 @@
 - \[[arxiv](https://arxiv.org/pdf/2410.18415)\] Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains. `2024.10`
 - \[[arxiv](https://arxiv.org/abs/2410.12609)\] Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs. `2024.10`
 - \[[NeurIPS 2024](https://arxiv.org/abs/2410.07526)\] MKGL: Mastery of a Three-Word Language. `2024.10` \[[Repo](https://github.com/zjukg/MKGL)\]
+- \[[NeurIPS 2024](https://arxiv.org/abs/2402.06861)\] UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction. `2024.10` \[[Repo](https://github.com/usail-hkust/UrbanKGent)\]
 - \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)\] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` \[[Repo](https://github.com/shiliu-egg/ICML2024_COFT)\]
 - \[[ACL 2024](https://arxiv.org/abs/2410.02811)\] SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs. `2024.09`
 - \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)\] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official)\]
@@ -164,7 +165,6 @@
 - \[[arxiv](https://arxiv.org/abs/2402.07630)\] G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.07148)\] X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Design. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.07016)\] REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models. `2024.02`
-- \[[arxiv](https://arxiv.org/abs/2402.06861)\] UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.06764)\] GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.05862)\] Let Your Graph Do the Talking: Encoding Structured Data for LLMs. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2402.05135)\] CADReN: Contextual Anchor-Driven Relational Network for Controllable Cross-Graphs Node Importance Estimation. `2024.02`
