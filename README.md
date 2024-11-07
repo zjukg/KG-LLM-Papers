@@ -79,6 +79,7 @@
 - \[[arxiv](https://arxiv.org/abs/2406.01238)\] EffiQA: Efficient Question-Answering with Strategic Multi-Model Collaboration on Knowledge Graphs. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.01145)\] Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2406.00036)\] EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling. `2024.06`
+- \[[EPJ Data Science](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00481-2)\] Glitter or Gold? Deriving Structured Insights from Sustainability Reports via Large Language Models. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2405.20455)\] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG)\]
 - \[[arxiv](https://arxiv.org/abs/2405.19877)\] KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models  `2024.05` \[[Repo](https://github.com/KnowOntology)\]
 - \[[arxiv](https://arxiv.org/abs/2405.14831)\] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG)\]
@@ -111,7 +112,7 @@
 - \[[arxiv](https://arxiv.org/abs/2404.06571)\] Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.04264)\] Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.03868)\] Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction. `2024.04`
-- \[[arxiv](https://arxiv.org/abs/2404.03623)\] Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph. `2024.04`
+- \[[COLM 2024](https://openreview.net/forum?id=dWYRjT501w)\] Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.03080)\] Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.02389)\] On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.01720)\] Self-Improvement Programming for Temporal Knowledge Graph Question Answering. `2024.04`
