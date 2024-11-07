@@ -111,7 +111,7 @@
 - \[[arxiv](https://arxiv.org/abs/2404.06571)\] Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.04264)\] Logic Query of Thoughts: Guiding Large Language Models to Answer Complex Logic Queries with Knowledge Graphs. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.03868)\] Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction. `2024.04`
-- \[[arxiv](https://arxiv.org/abs/2404.03623)\] Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph. `2024.04`
+- \[[COLM 2024](https://openreview.net/forum?id=dWYRjT501w)\] Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.03080)\] Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.02389)\] On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL. `2024.04`
 - \[[arxiv](https://arxiv.org/abs/2404.01720)\] Self-Improvement Programming for Temporal Knowledge Graph Question Answering. `2024.04`
