@@ -57,6 +57,7 @@
 - \[[arxiv](https://arxiv.org/abs/2410.12609)\] Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs. `2024.10`
 - \[[NeurIPS 2024](https://arxiv.org/abs/2410.07526)\] MKGL: Mastery of a Three-Word Language. `2024.10` \[[Repo](https://github.com/zjukg/MKGL)\]
 - \[[NeurIPS 2024](https://arxiv.org/abs/2402.06861)\] UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction. `2024.10` \[[Repo](https://github.com/usail-hkust/UrbanKGent)\]
+- \[[NeurIPS 2024](https://arxiv.org/abs/2405.16412)\] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.10` \[[Repo](https://github.com/pat-jj/KG-FIT)\]
 - \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)\] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` \[[Repo](https://github.com/shiliu-egg/ICML2024_COFT)\]
 - \[[ACL 2024](https://arxiv.org/abs/2410.02811)\] SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs. `2024.09`
 - \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)\] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official)\]
@@ -83,7 +84,6 @@
 - \[[arxiv](https://arxiv.org/abs/2405.20455)\] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG)\]
 - \[[arxiv](https://arxiv.org/abs/2405.19877)\] KNOW: A Real-World Ontology for Knowledge Capture with Large Language Models  `2024.05` \[[Repo](https://github.com/KnowOntology)\]
 - \[[arxiv](https://arxiv.org/abs/2405.14831)\] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG)\]
-- \[[arxiv](https://arxiv.org/abs/2405.16412)\] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.14012)\] Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models  `2024.05` \[[Repo](https://github.com/HaltiaAI/paper-PTODSKC)\]
 - \[[arxiv](https://arxiv.org/abs/2405.10288)\] Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.09713)\] SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge. `2024.05`
