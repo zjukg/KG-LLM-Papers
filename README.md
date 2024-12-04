@@ -240,7 +240,6 @@
 - \[[arxiv](https://arxiv.org/abs/2310.08279)\] CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.07170)\] PHALM: Building a Knowledge Graph from Scratch by Prompting Humans and a Language Model. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.03269)\] InstructProtein: Aligning Human and Protein Language via Knowledge Instruction. `2023.10`
-- \[[arxiv](https://arxiv.org/abs/2310.02166)\] Large Language Models Meet Knowledge Graphs to Answer Factoid Questions. `2023.10`
 - \[[arxiv](https://arxiv.org/abs/2310.01290)\] Knowledge Crosswords: Geometric Reasoning over Structured Knowledge with Large Language Models. `2023.10`
 - \[[ICLR 2024](https://arxiv.org/abs/2310.01061)\] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs)\]
 - \[[arxiv](https://arxiv.org/abs/2310.00299)\] RelBERT: Embedding Relations with Language Models. `2023.10`
