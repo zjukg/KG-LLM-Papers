@@ -8,7 +8,7 @@
 
 🙌 This repository collects papers integrating **knowledge graphs (KGs)** and **large language models (LLMs)**.
 
-😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
+😎 Welcome to recommend missing papers through **`Pull Requests`**. 
 
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
