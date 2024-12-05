@@ -53,6 +53,7 @@
 
 
 ### Method
+- \[[EMNLP 2024 findings](https://arxiv.org/abs/2407.11417)\] SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions. `2024.11`
 - \[[arxiv](https://arxiv.org/pdf/2410.18415)\] Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains. `2024.10`
 - \[[arxiv](https://arxiv.org/abs/2410.12609)\] Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs. `2024.10`
 - \[[NeurIPS 2024](https://arxiv.org/abs/2410.07526)\] MKGL: Mastery of a Three-Word Language. `2024.10` \[[Repo](https://github.com/zjukg/MKGL)\]
