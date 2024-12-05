@@ -13,9 +13,10 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
+- **`2024-09` Our paper [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn) has been accepted by NeurIPS 2024 as a spotlight paper. [[`Repo`](https://github.com/zjukg/MKGL)]**
+- **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. [[`Repo`](https://github.com/zjukg/KoPA)]**
 - **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. [[`Repo`](https://github.com/zjukg/KnowPAT)]**
 - **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
-- **`2023-10` We preprint our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) and release the [[`Repo`](https://github.com/zjukg/KoPA)].**
 - **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
 
 <!--
