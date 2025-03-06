@@ -55,6 +55,7 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2502.05478)\] OntoTune: Ontology-Driven Self-training for Aligning Large Language Models. `2025.2`
 - \[[EMNLP 2024 findings](https://aclanthology.org/2024.findings-emnlp.524/)\] Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering. `2024.11`
 - \[[EMNLP 2024 findings](https://arxiv.org/abs/2407.11417)\] SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions. `2024.11`
 - \[[arxiv](https://arxiv.org/pdf/2410.18415)\] Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains. `2024.10`
