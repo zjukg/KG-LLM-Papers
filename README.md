@@ -41,6 +41,7 @@
 ##  Papers
 
 ### Surveys
+- \[[JoWS](https://www.sciencedirect.com/science/article/pii/S1570826824000301)\] Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective `2024.12`
 - \[[arxiv](https://arxiv.org/abs/2402.05391)\] Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2311.07914)\] Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey. `2023.11`
 - \[[arxiv](https://arxiv.org/abs/2310.07521)\] Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. `2023.10`
