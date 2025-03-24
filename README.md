@@ -13,8 +13,10 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
+- **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) [[`Repo`](https://github.com/zjukg/OntoTune)].**
 - **`2025-02` We preprint our Paper [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/abs/2502.06257) (AAAI 2025 Oral) [[`Repo`](https://github.com/zjukg/K-ON)].**
 - **`2025-01` We preprint our Paper [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/abs/2501.00244)  [[`Repo`](https://github.com/zjukg/SUBARU)].**
+- **`2024-12` We preprint our Paper [TrustUQA: A Trustful Framework for Unified Structured Data Question Answering](https://arxiv.org/abs/2406.18916) (AAAI 2025) [[`Repo`](https://github.com/zjukg/TrustUQA)].**
 - **`2024-09` Our paper [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn) has been accepted by NeurIPS 2024 as a spotlight paper. [[`Repo`](https://github.com/zjukg/MKGL)]**
 - **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. [[`Repo`](https://github.com/zjukg/KoPA)]**
 - **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. [[`Repo`](https://github.com/zjukg/KnowPAT)]**
