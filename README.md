@@ -56,6 +56,7 @@
 
 
 ### Method
+- \[[arxiv](https://arxiv.org/abs/2502.10453)\] Linking Cryptoasset Attribution Tags to Knowledge Graph Entities: An LLM-based Approach. `2025.2`
 - \[[arxiv](https://arxiv.org/abs/2502.05478)\] OntoTune: Ontology-Driven Self-training for Aligning Large Language Models. `2025.2`
 - \[[EMNLP 2024 findings](https://aclanthology.org/2024.findings-emnlp.524/)\] Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering. `2024.11`
 - \[[EMNLP 2024 findings](https://arxiv.org/abs/2407.11417)\] SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions. `2024.11`
@@ -300,7 +301,6 @@
 - \[[arxiv](https://arxiv.org/abs/2304.05774)\] Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.11116)\] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
-
 
 ### Resources and Benchmarking
 - \[[arxiv](https://arxiv.org/abs/2404.13207)\] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark)\]
