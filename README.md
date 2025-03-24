@@ -12,7 +12,10 @@
 
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
-## 🔔 News
+
+<details>
+ <summary>👈 🔔 News </summary>
+   
 - **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) [[`Repo`](https://github.com/zjukg/OntoTune)].**
 - **`2025-02` We preprint our Paper [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/abs/2502.06257) (AAAI 2025 Oral) [[`Repo`](https://github.com/zjukg/K-ON)].**
 - **`2025-01` We preprint our Paper [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/abs/2501.00244)  [[`Repo`](https://github.com/zjukg/SUBARU)].**
@@ -22,6 +25,7 @@
 - **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. [[`Repo`](https://github.com/zjukg/KnowPAT)]**
 - **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
 - **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
+</details>
 
 <!--
 *Todo:*
