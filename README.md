@@ -13,6 +13,7 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
+- **`2025-02` We preprint our Paper [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/abs/2502.06257) (AAAI 2025 Oral) [[`Repo`](https://github.com/zjukg/K-ON)].**
 - **`2025-01` We preprint our Paper [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/abs/2501.00244)  [[`Repo`](https://github.com/zjukg/SUBARU)].**
 - **`2024-09` Our paper [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn) has been accepted by NeurIPS 2024 as a spotlight paper. [[`Repo`](https://github.com/zjukg/MKGL)]**
 - **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. [[`Repo`](https://github.com/zjukg/KoPA)]**
@@ -338,34 +339,60 @@
 ![Star History Chart](https://api.star-history.com/svg?repos=zjukg/KG-LLM-Papers&type=Date)
 
 ## 🤝 Cite:
-If this Repo is helpful to you, please consider citing our paper. We would greatly appreciate it :)
+If this Repo is helpful to you, please consider citing one of our papers. We would greatly appreciate it :)
 ```bigquery
-@article{DBLP:journals/corr/abs-2311-06503,
+@inproceedings{DBLP:conf/nips/GuoB000LSZLLZZC24,
+  author       = {Lingbing Guo and
+                  Zhongpu Bo and
+                  Zhuo Chen and
+                  Yichi Zhang and
+                  Jiaoyan Chen and
+                  Yarong Lan and
+                  Mengshu Sun and
+                  Zhiqiang Zhang and
+                  Yangyifei Luo and
+                  Qian Li and
+                  Qiang Zhang and
+                  Wen Zhang and
+                  Huajun Chen},
+  title        = {{MKGL:} Mastery of a Three-Word Language},
+  booktitle    = {NeurIPS},
+  year         = {2024}
+}
+```
+
+```bigquery
+@inproceedings{DBLP:conf/acl/ZhangCFLL0C24,
   author       = {Yichi Zhang and
                   Zhuo Chen and
                   Yin Fang and
-                  Lei Cheng and
                   Yanxi Lu and
                   Fangming Li and
                   Wen Zhang and
                   Huajun Chen},
   title        = {Knowledgeable Preference Alignment for LLMs in Domain-specific Question
                   Answering},
-  journal      = {CoRR},
-  volume       = {abs/2311.06503},
-  year         = {2023}
+  booktitle    = {{ACL} (Findings)},
+  pages        = {891--904},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2024}
 }
+
+
 ```
 ```bigquery
-@article{DBLP:journals/corr/abs-2310-06671,
+@inproceedings{DBLP:conf/mm/00090GX0C24,
   author       = {Yichi Zhang and
                   Zhuo Chen and
+                  Lingbing Guo and
+                  Yajing Xu and
                   Wen Zhang and
                   Huajun Chen},
   title        = {Making Large Language Models Perform Better in Knowledge Graph Completion},
-  journal      = {CoRR},
-  volume       = {abs/2310.06671},
-  year         = {2023}
+  booktitle    = {{ACM} Multimedia},
+  pages        = {233--242},
+  publisher    = {{ACM}},
+  year         = {2024}
 }
 ```
 
