@@ -344,6 +344,7 @@
 
 ![Star History Chart](https://api.star-history.com/svg?repos=zjukg/KG-LLM-Papers&type=Date)
 
+
 ## 🤝 Cite:
 If this Repo is helpful to you, please consider citing one of our papers. We would greatly appreciate it :)
 ```bigquery
