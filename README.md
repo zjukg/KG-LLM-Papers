@@ -310,6 +310,7 @@
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
 
 ### Resources and Benchmarking
+- \[[arxiv](https://arxiv.org/abs/2409.07088)\] Ontology-Free General-Domain Knowledge Graph-to-Text Generation Dataset Synthesis using Large Language Model. `2024.09` \[[Repo](https://github.com/daehuikim/WikiOFGraph)\]
 - \[[arxiv](https://arxiv.org/abs/2404.13207)\] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark)\]
 - \[[arxiv](https://arxiv.org/abs/2402.06341)\] RareBench: Can LLMs Serve as Rare Diseases Specialists?. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
