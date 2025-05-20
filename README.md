@@ -15,6 +15,7 @@
 
 <details>
  <summary>👈 🔔 News </summary>
+
    
 - **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) [[`Repo`](https://github.com/zjukg/OntoTune)].**
 - **`2025-02` We preprint our Paper [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/abs/2502.06257) (AAAI 2025 Oral) [[`Repo`](https://github.com/zjukg/K-ON)].**
@@ -310,6 +311,7 @@
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
 
 ### Resources and Benchmarking
+- \[[arxiv](https://arxiv.org/abs/2505.12495)\] KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation. `2025.05` \[[Repo](https://github.com/gtfintechlab/KG-QAGen/)\]
 - \[[arxiv](https://arxiv.org/abs/2404.13207)\] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark)\]
 - \[[arxiv](https://arxiv.org/abs/2402.06341)\] RareBench: Can LLMs Serve as Rare Diseases Specialists?. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
