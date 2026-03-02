@@ -310,6 +310,7 @@
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
 
 ### Resources and Benchmarking
+- \[[arxiv](https://arxiv.org/abs/2505.14101)\] MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations `2025.05` \[[Repo](https://github.com/ernlavr/multihal)\]
 - \[[arxiv](https://arxiv.org/abs/2404.13207)\] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark)\]
 - \[[arxiv](https://arxiv.org/abs/2402.06341)\] RareBench: Can LLMs Serve as Rare Diseases Specialists?. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2401.14640)\] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
