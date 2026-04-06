@@ -34,6 +34,7 @@
 3. - [ ] `Wiki page for brief paper introduction`
 -->
    
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with knowledge graph integration for multi-agent coordination. MIT licensed.
 ## Content
 
 
