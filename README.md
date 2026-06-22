@@ -63,6 +63,7 @@
 
 
 ### Method
+- \[[Preprints](https://www.preprints.org/manuscript/202602.1970)\] KG4ESG: The ESG Knowledge Graph Atlas. `2026.02`
 - \[[arxiv](https://arxiv.org/abs/2502.10453)\] Linking Cryptoasset Attribution Tags to Knowledge Graph Entities: An LLM-based Approach. `2025.2`
 - \[[arxiv](https://arxiv.org/abs/2502.05478)\] OntoTune: Ontology-Driven Self-training for Aligning Large Language Models. `2025.2`
 - \[[EMNLP 2024 findings](https://aclanthology.org/2024.findings-emnlp.524/)\] Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering. `2024.11`
