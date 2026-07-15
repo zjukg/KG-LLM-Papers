@@ -63,6 +63,7 @@
 
 
 ### Method
+- \[[HCII 2026](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31)\] An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing. `2026.07`
 - \[[arxiv](https://arxiv.org/abs/2502.10453)\] Linking Cryptoasset Attribution Tags to Knowledge Graph Entities: An LLM-based Approach. `2025.2`
 - \[[arxiv](https://arxiv.org/abs/2502.05478)\] OntoTune: Ontology-Driven Self-training for Aligning Large Language Models. `2025.2`
 - \[[EMNLP 2024 findings](https://aclanthology.org/2024.findings-emnlp.524/)\] Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering. `2024.11`
